@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sávio Cartaxo
+<div style="display: inline_block" align="left"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+</div>
 
-<!--
-**SavioCartaxo/SavioCartaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
-Here are some ideas to get you started:
+<p align="left">
+  🐍 <strong>Skills:</strong> Python
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  📘 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/savio-cartaxo" target="_blank">savio-cartaxo</a>
+</p>
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Savio%20Cartaxo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savio-cartaxo/)
+[![Email](https://img.shields.io/badge/Gmail-savio.ferreira%40ccc.ufcg.edu.br-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
+
+
+# My Status
+<div>
+  <a href="https://github.com/caiomps">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caiomps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
