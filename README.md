@@ -26,3 +26,6 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saviocartaxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=5&theme=dracula&access_token=seu_token_aqui)
+
