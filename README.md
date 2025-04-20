@@ -27,5 +27,4 @@
   </a>
 </div>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=5&theme=dracula&access_token=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)
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula)
