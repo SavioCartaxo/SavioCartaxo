@@ -24,10 +24,16 @@
 
 
 # My Status
-<div>
+
+<div align="center">
   <a href="https://github.com/SavioCartaxo">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saviocartaxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=saviocartaxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin-right: 1%;"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula"
+      style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px;"
+    />
   </a>
 </div>
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula)
