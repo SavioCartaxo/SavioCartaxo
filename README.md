@@ -29,11 +29,12 @@
   <a href="https://github.com/SavioCartaxo">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=saviocartaxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin-right: 1%;"
+      height="180px"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula"
-      style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px;"
+      height="180px"
     />
   </a>
 </div>
+
