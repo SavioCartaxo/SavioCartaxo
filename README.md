@@ -25,12 +25,7 @@
 
 # My Status
 
-<div align="center">
-  <a href="https://github.com/SavioCartaxo">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=saviocartaxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      height="180px"
-    />
+<div align="left">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula"
       height="180px"
