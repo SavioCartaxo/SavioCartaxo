@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  📘 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/savio-cartaxo" target="_blank">savio-cartaxo</a>
+  📘 <strong>Currently learning:</strong> Scikit-learn and Java
 </p>
 
 ## 🌐 Contato
