@@ -1,18 +1,23 @@
 # Sávio Cartaxo
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left">
-  🐍 <strong>Skills:</strong> Python, C++
+  🐍 <strong>Skills:</strong> Python, C++, Java
 </p>
 
 <p align="left">
-  📘 <strong>Currently learning:</strong> Scikit-learn and Java
+  🛠️ <strong>Ferramentas:</strong> Pandas, Matplotlib, NumPy
+</p>
+
+<p align="left">
+  📘 <strong>Currently learning:</strong> OpenCV, Algoritmos Avançados, HTML e CSS
 </p>
 
 ## 🌐 Contato
@@ -34,4 +39,3 @@
     />
   </a>
 </div>
-
