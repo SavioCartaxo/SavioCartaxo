@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  📘 <strong>Currently learning:</strong> OpenCV, Algoritmos Avançados, HTML e CSS
+  📘 <strong>Currently learning:</strong> OpenCV, Algoritmos Avançados e HTML
 </p>
 
 ## 🌐 Contato
