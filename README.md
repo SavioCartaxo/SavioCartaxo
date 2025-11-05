@@ -13,20 +13,20 @@
 </p>
 
 <p align="left">
-  🛠️ <strong>Ferramentas:</strong> Pandas, Matplotlib, NumPy
+  🛠️ <strong>tools:</strong> Pandas, Matplotlib, NumPy
 </p>
 
 <p align="left">
   📘 <strong>Currently learning:</strong> OpenCV, Algoritmos Avançados e HTML
 </p>
 
-## 🌐 Contato
+## 🌐 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Savio%20Cartaxo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savio-cartaxo/)
 
 [![Email](https://img.shields.io/badge/Gmail-Sávio%20Cartaxo-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
 
-[![Currículo](https://img.shields.io/badge/📄%20Curr%C3%ADculo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
+[![Curriculum](https://img.shields.io/badge/📄%20Curr%C3%ADculo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
 
 
 
