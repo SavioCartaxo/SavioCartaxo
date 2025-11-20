@@ -34,8 +34,8 @@
 
 <div align="left">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula"
-      height="180px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula&card_width=1200"
+    style="width: 100%;"
     />
   </a>
 </div>
