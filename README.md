@@ -33,9 +33,9 @@
 # My Status
 
 <div align="left">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula&card_width=1200"
+  <img 
+    src="https://raw.githubusercontent.com/SavioCartaxo/SavioCartaxo/master/github-metrics.svg"
     style="width: 100%;"
-    />
-  </a>
+  />
 </div>
+
