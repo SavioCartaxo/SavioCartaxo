@@ -27,15 +27,3 @@
 [![Email](https://img.shields.io/badge/Gmail-Sávio%20Cartaxo-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
 
 [![Curriculum](https://img.shields.io/badge/📄%20Curr%C3%ADculo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
-
-
-
-# My Status
-
-<div align="left">
-  <img 
-    src="https://raw.githubusercontent.com/SavioCartaxo/SavioCartaxo/master/github-metrics.svg"
-    style="width: 100%;"
-  />
-</div>
-
