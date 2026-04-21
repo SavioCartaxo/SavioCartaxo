@@ -1,29 +1,37 @@
-# Sávio Cartaxo
-<div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+# 👨‍💻 Sávio Cartaxo
+
+<div align="left">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
+<br>
 
-<p align="left">
-  🐍 <strong>Skills:</strong> Python, C++, Java
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">
 
-<p align="left">
-  🛠️ <strong>tools:</strong> Pandas, Matplotlib, NumPy
-</p>
+### 🐍 Skills
+- Python
+- C++
+- Java
 
-<p align="left">
-  📘 <strong>Currently learning:</strong> OpenCV, Algoritmos Avançados e HTML
-</p>
+### 🛠️ Tools
+- Pandas
+- NumPy
+- Matplotlib
 
-## 🌐 Contacts
+### 📘 Currently Learning
+- OpenCV  
+- Algoritmos Avançados  
+- HTML  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Savio%20Cartaxo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savio-cartaxo/)
+---
 
-[![Email](https://img.shields.io/badge/Gmail-Sávio%20Cartaxo-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
+## 🌐 Contatos
 
-[![Curriculum](https://img.shields.io/badge/📄%20Curr%C3%ADculo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sávio%20Cartaxo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-cartaxo/)
+
+[![Email](https://img.shields.io/badge/Gmail-Sávio%20Cartaxo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
+
+[![Currículo](https://img.shields.io/badge/📄%20Currículo-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
